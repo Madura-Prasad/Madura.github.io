@@ -6563,7 +6563,7 @@
   
   @media (max-width:530px) {
 	.preloader .inner {
-	  width: 80%
+	  width: 50%
 	}
 	#mobile-link {
 	  font-size: 30px;
