@@ -4668,11 +4668,9 @@
 	content: 'SKILLS'
   }
   
-  #nav_bar nav a:first-child+a+a+a:after {
-	content: 'MY WORK'
-  }
+
   
-  #nav_bar nav a:first-child+a+a+a+a:after {
+  #nav_bar nav a:first-child+a+a+a:after {
 	content: 'CONTACT'
   }
   
