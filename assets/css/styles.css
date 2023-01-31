@@ -6563,13 +6563,13 @@
   
   @media (max-width:530px) {
 	.preloader .inner {
-	  width: 50%
+	  width: 80%
 	}
 	#mobile-link {
 	  font-size: 30px;
 	  color: #fff;
 	  float: right;
-	  margin: 10px 20px 10px 10px;
+	  margin: 10px 20px 10px 20px;
 	  display: block
 	}
 	#nav_bar ul {
