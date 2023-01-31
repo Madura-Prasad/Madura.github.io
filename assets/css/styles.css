@@ -6577,7 +6577,7 @@
 	}
 	.home-page .text-zone {
 	  width: 85%;
-	  left: 15%
+	  left: 5%
 	}
 	body {
 	  overflow-x: hidden
@@ -6610,7 +6610,7 @@
 	  position: fixed;
 	  left: 100%;
 	  opacity: 0;
-	  margin-left: 50px;
+	  margin-left: 500px;
 	  float: left;
 	  overflow: hidden;
 	  text-align: center;
