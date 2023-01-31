@@ -4688,11 +4688,8 @@
 	content: 'SKILSY'
   }
   
-  #nav_bar nav.pl a:first-child+a+a+a:after {
-	content: 'PORTFOLIO'
-  }
   
-  #nav_bar nav.pl a:first-child+a+a+a+a:after {
+  #nav_bar nav.pl a:first-child+a+a+a:after {
 	content: 'KONTAKT'
   }
   
